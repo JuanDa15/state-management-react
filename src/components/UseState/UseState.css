@@ -1,0 +1,12 @@
+.content-wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.error {
+  font-weight: 600;
+  color: #aa2020;
+}
